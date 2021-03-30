@@ -1,4 +1,4 @@
-# poastmote-uwu-round-2-
+# 2poast2mote
 tag! you're it
 it's time for the second wave of poastmote, with some notable changes
   - redesigned shape for better ergonomics
