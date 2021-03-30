@@ -8,3 +8,8 @@ it's time for the second wave of poastmote, with some notable changes
   - reinforced screw posts and mating surfaces
 
 I think that's about it? have fun! as always, stl and stp files available, there's a version for each hands, buttons (and this time the thumbwheel) will be in the "accessories" branch, each new released version will also be in their own branch
+
+CHANGES:
+
+Top
+  - 2.13: fixed pcb clearance for the [RH] version
