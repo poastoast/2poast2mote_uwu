@@ -15,5 +15,6 @@ Top
   - 2.13: fixed pcb clearance for the [RH] version
   - 2.2: adjusted button retainer nubs(?); changed light hole pattern
   - [NEW] lite: same as top v2.2 but without the light holes
+
 Bottom
   - 2.1: adjusted throttle wheel clearance; Added name and logo ;)
