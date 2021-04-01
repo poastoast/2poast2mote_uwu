@@ -18,4 +18,5 @@ Top
 
 
 Bottom
+  - 2.11: added space for the battery retainer and wires
   - 2.1: adjusted throttle wheel clearance; Added name and logo ;)
