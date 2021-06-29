@@ -1,4 +1,10 @@
 # 2poast2mote
+
+ok apparently i have to put this here:
+if you want to sell this, that's fine but let me know before you do it
+and at the BARE minimum, give proper credit and don't try to put it off as your own. 
+-Poastoast.
+
 tag! you're it
 it's time for the second wave of poastmote, with some notable changes
   - redesigned shape for better ergonomics
