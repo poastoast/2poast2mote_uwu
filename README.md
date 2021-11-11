@@ -16,6 +16,10 @@ I think that's about it? have fun! as always, stl and stp files available, there
 
 CHANGES:
 
+[2.2]
+  - new file names
+  - adjusted thumbwheel hole to be able to fit the stock hoyt pucc nubbed wheel
+
 Top
   - [NEW] lite: same as top v2.2 but without the light holes
   - 2.2: adjusted button retainer nubs(?); changed light hole pattern
