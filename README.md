@@ -19,6 +19,8 @@ CHANGES:
 [2.2]
   - new file names
   - adjusted thumbwheel hole to be able to fit the stock hoyt pucc nubbed wheel
+  - added lite version top without light holes
+  - 
 
 Top
   - [NEW] lite: same as top v2.2 but without the light holes
