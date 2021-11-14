@@ -8,8 +8,10 @@ they accomodate for the tichness of double sided tape (1mm) so they should be pr
 CHANGES:
 
 [2]
+  - compatible with poastmote [2.3]
   - new naming scheme
   - added a section that wraps a part of the bottom for a taller section at the back
 
 [2.2]
   - initial file release 
+  - compatible with [2.2] and below
