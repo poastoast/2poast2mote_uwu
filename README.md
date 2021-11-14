@@ -10,5 +10,6 @@ CHANGES:
 [2]
   - new naming scheme
   - added a section that wraps a part of the bottom for a taller section at the back
+
 [2.2]
   - initial file release 
