@@ -16,11 +16,14 @@ I think that's about it? have fun! as always, stl and stp files available, there
 
 CHANGES:
 
+[2.3]
+  - moved the lanyard hole to the top for easier assembly
+  - adjusted lanyard hole to be .4mm bigger in diameter
+
 [2.2]
   - new file names
   - adjusted thumbwheel hole to be able to fit the stock hoyt pucc nubbed wheel
   - added lite version top without light holes
-  - 
 
 Top
   - [NEW] lite: same as top v2.2 but without the light holes
