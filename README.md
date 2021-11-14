@@ -6,7 +6,9 @@ there are three sizes, 4.2, 6.9, and 9.6, which each add thickness equal to the 
 they accomodate for the tichness of double sided tape (1mm) so they should be pretty close to true added thickness.
 
 CHANGES:
+
 [2]
+  - new naming scheme
   - added a section that wraps a part of the bottom for a taller section at the back
-[1]
+[2.2]
   - initial file release 
