@@ -16,6 +16,10 @@ I think that's about it? have fun! as always, stl and stp files available, there
 
 CHANGES:
 
+[2.4]
+  - for the RH models
+  - added more space for the battery leads on the front end
+
 [2.3]
   - moved the lanyard hole to the top for easier assembly
   - adjusted lanyard hole to be .4mm bigger in diameter
