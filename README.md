@@ -1,7 +1,6 @@
 # 2poast2mote
 
-if you want to sell this, that's fine but let me know before you do it
-and at the BARE minimum, give proper credit and don't try to put it off as your own. 
+This project is now protected under the MIT OSS license. refer to the LICENSE.md file for details. 
 -Poastoast
 
 tag! you're it
